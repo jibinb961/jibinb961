@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate software developer and data enthusiast.  
+Welcome to my GitHub profile! I'm Jibin, a passionate software developer and data enthusiast.  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on:  
