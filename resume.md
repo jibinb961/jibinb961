@@ -1,6 +1,4 @@
-Below is an enhanced version of your resume with added skills mentioned in the job description:
 
----
 
 **Jibin Baby**  
 *Student*  
@@ -92,9 +90,3 @@ A results-driven Data Engineer transitioning into Data Science and Machine Learn
 
 ---
 
-### **Skills**
-- **Data Engineering**: DBT, Airbyte, Data Pipeline Orchestration, ETL Processes, Scala, Cloud databases (Snowflake, Azure SQL).  
-- **Programming**: Python, SQL, Apache Spark, Scala.  
-- **Tools**: Azure DevOps, Google BigQuery, Snowflake, CRM software.  
-- **Soft Skills**: Collaboration, Workflow Optimization, Data Quality, and Integrity.  
-- **Data Integration**: Data ingestion, data transformation, data cleansing, and standard
