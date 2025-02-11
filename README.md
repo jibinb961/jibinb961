@@ -1,6 +1,3 @@
-Here’s an updated and catchy GitHub README file that includes your **CPS Assistant RAG project**, updated **Report Plus project link**, and relevant details for **Data Engineer, Data Analyst, and Data Scientist** from your resume.  
-
----
 
 ### 🚀 **Welcome to My GitHub!**  
 
