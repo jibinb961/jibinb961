@@ -61,9 +61,6 @@ An **AI-powered assistant** built using **LLMs & Vector DB** to:
 ✅ **Provide structured program insights**  
 ✅ **Use Retrieval-Augmented Generation (RAG)** for **accurate responses**  
 
-### 📰 [**News Topic Predictor**](https://github.com/your-repo-link)  
-An **Apache Spark project** that **predicts trending news topics** using real-time data ingestion and NLP.  
-
 ---
 
 ## 🌍 **Let’s Connect!**  
